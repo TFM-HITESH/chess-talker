@@ -6,4 +6,5 @@ def extract_data(input_file_path):
 
 
 if __name__ == '__main__':
-    extract_data("test")
+    data = extract_data("test")
+    print("hello world")
