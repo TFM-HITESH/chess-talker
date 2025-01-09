@@ -7,3 +7,4 @@ def extract_data(input_file_path):
 
 if __name__ == '__main__':
     data = extract_data("test")
+    print("hello world")
