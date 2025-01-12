@@ -1,0 +1,24 @@
+[Event "Candidates Tournament"]
+[Site "Madrid, Spain"]
+[Date "2022.06.23"]
+[Round "10"]
+[White "Fabiano Caruana"]
+[Black "Leinier Domínguez"]
+[Result "1-0"]
+[WhiteElo "2806"]
+[BlackElo "2763"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense"]
+[TimeControl "120+30"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. e3 O-O 6. Be2 c5 7. O-O b6 8. Bxb4 
+cxb4 9. a3 bxa3 10. Rxa3 Bb7 11. Nc3 d6 12. b4 Nc6 13. b5 Na5 14. Nd2 e5 15. d5 
+Bc8 16. f4 exf4 17. exf4 Nb7 18. Re1 Qd8 19. Nce4 Nc5 20. Nxf6+ Qxf6 21. Qc1 Bf5 
+22. Qc3 Qh4 23. Nf3 Qh6 24. g3 a5 25. bxa6 Rxa6 26. Rxa6 Nxa6 27. Nd4 Bd7 28. Ra1 
+Nc5 29. Ra7 Qf6 30. Nb5 Bxb5 31. Qxf6 gxf6 32. cxb5 Rb8 33. Kf2 Kg7 34. Ke3 Kg6 
+35. Kd4 h5 36. Bd1 f5 37. Bc2 h4 38. g4 Re8 39. Bxf5+ Kg7 40. g5 Re1 41. h3 Rf1 
+42. Ke3 Re1+ 43. Kf3 Rc1 44. Be6 Rc3+ 45. Kg4 Rg3+ 46. Kxh4 Rf3 47. Kg4 Rf1 48. 
+Rxf7+ Kg8 49. Kh5 Rb1 50. Kg6 Nd7 51. Rxd7 Rxb5 52. Rd8# 1-0
