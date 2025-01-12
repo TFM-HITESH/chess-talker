@@ -1,0 +1,30 @@
+[Event "World Chess Championship"]
+[Site "Dubai, UAE"]
+[Date "2021.12.03"]
+[Round "6"]
+[White "Magnus Carlsen"]
+[Black "Ian Nepomniachtchi"]
+[Result "1-0"]
+[WhiteElo "2855"]
+[BlackElo "2782"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Neo-Arkhangelsk Variation"]
+[TimeControl "120+30"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5 
+axb5 9. c3 d6 10. d4 Bb6 11. Be3 O-O 12. h3 exd4 13. cxd4 Re8 14. Nc3 Na5 15. Bc2 
+Bb7 16. d5 c6 17. Bxb6 Qxb6 18. b4 Nc4 19. dxc6 Bxc6 20. Nd4 d5 21. exd5 Bd7 22. 
+Bb3 Qd6 23. Ra7 Re5 24. Bxc4 bxc4 25. Nc6 Rbe8 26. Qd4 Rg5 27. Kh1 Bxc6 28. dxc6 
+Qxc6 29. f3 h6 30. Rd1 Rge5 31. Raa1 Qc7 32. Qd6 Qc8 33. Qd4 Nh5 34. Kh2 Qb8 
+35. Qd6 Qc8 36. Qd7 Qb8 37. Ra5 Nf6 38. Qd6 Qc8 39. Rxe5 Rxe5 40. b5 Re6 41. Qd8+ 
+Qxd8 42. Rxd8+ Kh7 43. Rd4 Rb6 44. Rxc4 Kg6 45. Rc5 Rb7 46. Nd5 Nd7 47. Rc6+ Kh7 
+48. b6 Ne5 49. Rd6 Nc4 50. Rc6 Ne5 51. Rd6 Nc4 52. Rc6 Ne5 53. Rc7 Rb8 54. b7 Nc6 
+55. Nb6 Nd8 56. Rc8 Rxb7 57. Rxd8 Rxb6 58. Rd4 Kg6 59. h4 h5 60. Rd5 Re6 61. Rg5+ 
+Kh6 62. Kg3 g6 63. Rb5 Kg7 64. Kf4 Ra6 65. Kg3 Rf6 66. Rd5 Ra6 67. Kf4 Ra4+ 68. 
+Kg3 Ra6 69. Rd4 Ra3 70. Rd2 Kf6 71. Rb2 Ra6 72. Rb4 Re6 73. Kf4 Kg7 74. Rb7 Rf6+ 
+75. Kg3 Ra6 76. Kf4 Ra5 77. Rd7 Rf5+ 78. Kg3 Ra5 79. Rb7 Rf5 80. Rb2 Ra5 81. Rb4 
+Rf5 82. Rb2 Ra5 83. Rc2 Rf5 84. Rc3 Ra5 85. Rc4 Rf5 86. Rc7 Rf6 87. Rc6 Rf5 88. Rc5 
+Rf6 89. Rd5 Rf5 90. Rxf5 1-0

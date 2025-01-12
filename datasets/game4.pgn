@@ -1,0 +1,22 @@
+[Event "Candidates Tournament"]
+[Site "Bled-Zagreb-Belgrade YUG"]
+[Date "1959.09.10"]
+[Round "8"]
+[White "Mikhail Tal"]
+[Black "Bobby Fischer"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2625"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. g3 Be7 5. Bg2 O-O 6. Nf3 d6 7. O-O Qe8 8. Qc2 Nc6 
+9. a3 a5 10. d5 Nd8 11. dxe6 Nxe6 12. b4 axb4 13. Nb5 bxa3 14. Rxa3 Rxa3 15. Bxa3 
+Qh5 16. c5 f4 17. cxd6 Bxd6 18. Nxd6 cxd6 19. Bxd6 Rd8 20. Be7 Re8 21. Bxf6 gxf6 
+22. Qb3 Kh8 23. Rd1 Ng5 24. Nxg5 Qxg5 25. Qf7 Rg8 26. Rd6 Qh6 27. Rxf6 Qg7 28. Qxg7+ 
+Kxg7 29. Rxf4 Re8 30. e4 b5 31. e5 Be6 32. Rb4 Bc4 33. f4 Rd8 34. Be4 Rd4 35. Bf3 
+Rd2 36. Rb1 Kf7 37. Rd1 Ra2 38. Rd7+ Ke6 39. Rd6+ Kf5 40. Rf6# 1-0

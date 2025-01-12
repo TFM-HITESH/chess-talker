@@ -1,0 +1,23 @@
+[Event "World Chess Championship"]
+[Site "London, England"]
+[Date "1993.10.18"]
+[Round "10"]
+[White "Garry Kasparov"]
+[Black "Nigel Short"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2710"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Steinitz Variation"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bc4 e6 7. Qe2 Nb6 8. Bb3 
+Qxd4 9. N1f3 Qd8 10. O-O Be7 11. Rd1 Qc7 12. Ne5 O-O 13. Rd3 Nbd7 14. Nexf7 Nc5 
+15. Rh3 Rxf7 16. Nxf7 Kxf7 17. Bg5 h6 18. Bxf6 Bxf6 19. Qh5+ Ke7 20. Rd1 Nxb3 
+21. axb3 Bd7 22. Rhd3 Be8 23. Qe2 Rc8 24. c4 Qe5 25. Re3 Qf5 26. g4 Qg6 27. Rxe6+ 
+Kf8 28. h3 h5 29. f3 h4 30. f4 Bf7 31. f5 Qh6 32. Rd7 Rb8 33. Ree7 Bxe7 34. Qxe7+ 
+Kg8 35. Qxf7+ Kh8 36. Qe7 Qc1+ 37. Kf2 Qf4+ 38. Ke2 Qh2+ 39. Kd1 Qh1+ 40. Kc2 Qxh3 
+41. Qxg7# 1-0

@@ -1,0 +1,27 @@
+[Event "World Chess Championship"]
+[Site "Astana, Kazakhstan"]
+[Date "2023.04.13"]
+[Round "6"]
+[White "Ding Liren"]
+[Black "Ian Nepomniachtchi"]
+[Result "1-0"]
+[WhiteElo "2788"]
+[BlackElo "2795"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "120+30"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c6 8. Rc1 
+Re8 9. Be2 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. O-O Nxc3 13. Qxc3 e5 14. dxe5 Nxe5 
+15. Nxe5 Qxe5 16. Rfd1 Qg5 17. Rd6 Bh3 18. Bf1 Be6 19. a3 Re7 20. Rcd1 Ree8 21. Qb4 
+b6 22. g3 Bd5 23. Rd7 Re4 24. Qc3 Qf5 25. R7xd5 Qxd5 26. Rxd5 cxd5 27. h4 h6 28. 
+Bg2 Rd8 29. Qc7 Ree8 30. Qxa7 Rd6 31. Qc7 Ree6 32. Qc3 Rf6 33. Qe5 Rde6 34. Qxd5 
+Rd6 35. Qb3 Rfe6 36. Bf3 Rd8 37. a4 Red6 38. Qb5 Rf8 39. Kg2 Rdf6 40. a5 bxa5 41. 
+Qxa5 Rf5 42. Qa3 g6 43. Be4 Rf6 44. f4 Rf7 45. Bd5 Kg7 46. e4 Rb6 47. Bxf7 Kxf7 
+48. Qa7+ Kf8 49. Qa5 Rc6 50. Qa4 Rc7 51. Qb3 Ke7 52. Qg8 Rc6 53. Qg7+ Kd8 54. f5 
+gxf5 55. exf5 h5 56. f6 Rc7 57. f7 Re7 58. f8=Q+ Re8 59. Qxe8+ Kxe8 60. Qg6+ Kd8 
+61. Qxh5 Kd7 62. Qh7+ Kc6 63. Qf5 Kd6 64. g4 Kc7 65. g5 Kd6 66. g6 Kc7 67. g7 
+Kd8 68. g8=Q+ Ke7 69. Qff7+ Kd6 70. Qe6+ Kc7 71. Qgf7+ Kd8 72. Qee8# 1-0

@@ -1,0 +1,22 @@
+[Event "Candidates Tournament"]
+[Site "Budapest, Hungary"]
+[Date "1959.09.07"]
+[Round "10"]
+[White "Bobby Fischer"]
+[Black "Mikhail Tal"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2705"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. f3 b5 7. Nge2 Nbd7 8. Bh6 Bxh6 
+9. Qxh6 Bb7 10. a3 Qc7 11. g4 a6 12. Ng3 c5 13. d5 b4 14. Nd1 Ne5 15. Be2 a5 16. g5 
+Nfd7 17. f4 Ba6 18. fxe5 Bxe2 19. Nxe2 Nxe5 20. O-O O-O-O 21. Ne3 c4 22. axb4 Qb6 
+23. Qh3+ Kb8 24. bxa5 Qc5 25. Kh1 h6 26. gxh6 Rh7 27. a6 Rdh8 28. a7+ Ka8 29. Ra6 Rg8 
+30. Qg3 Rh3 31. Qf4 Rxe3 32. Ng3 g5 33. Qf2 Ng4 34. Qg1 Rxh2+ 35. Qxh2 Nxh2 36. Kxh2 
+Qd4 37. Rxf7 Qh8+ 38. Kg2 g4 39. Rxe7 Qh3+ 40. Kf2 Qxg3+ 41. Kf1 Re1# 0-1

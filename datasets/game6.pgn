@@ -1,0 +1,23 @@
+[Event "World Chess Championship"]
+[Site "New York, USA"]
+[Date "1995.09.10"]
+[Round "1"]
+[White "Garry Kasparov"]
+[Black "Vladimir Kramnik"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6 8. e3 
+O-O 9. Nf3 Re8 10. Bd3 f5 11. O-O Bd7 12. b4 Qf6 13. b5 Ne7 14. a4 Ng6 15. Ba3 Rac8 
+16. Rac1 c6 17. c5 e5 18. Bb2 Ng5 19. Nxe5 Be6 20. f4 Nf7 21. a5 Nh6 22. a6 bxa6 
+23. bxc6 a5 24. Ba6 Rc7 25. Bc3 a4 26. Ba5 Qd8 27. Bxc7 Qxc7 28. Qxa4 Rb8 29. Bb7 
+a5 30. Rb1 Re8 31. Rfc1 Bc8 32. Rb6 Ng4 33. Nxg4 fxg4 34. Qxa5 Rxe3 35. Qa2 Nxf4 
+36. Bxc8 Qxc8 37. Rcb1 Qe6 38. c7 Re1+ 39. Kf2 Nd3+ 40. Kg3 Qe3+ 41. Kh4 Qh6+ 
+42. Rxh6 Re8 43. Rb8 1-0

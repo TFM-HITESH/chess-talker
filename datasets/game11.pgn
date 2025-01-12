@@ -1,0 +1,27 @@
+[Event "World Chess Championship"]
+[Site "New York, USA"]
+[Date "2016.11.24"]
+[Round "10"]
+[White "Magnus Carlsen"]
+[Black "Sergey Karjakin"]
+[Result "1-0"]
+[WhiteElo "2853"]
+[BlackElo "2772"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal-Sokolsky Attack"]
+[TimeControl "100+30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 e6 8. 
+Bg5 Ne7 9. O-O-O h6 10. Bh4 Qc7 11. Bg3 Nc8 12. Qd3 Be7 13. h4 O-O 14. Kb1 Qc6 
+15. Nd4 Qc5 16. Nb3 Qb6 17. f3 Bb5 18. Qd4 Qc6 19. Bxd6 Nxd6 20. Qxd6 Bxd6 21. 
+Rxd6 Qc7 22. Rd2 Rfd8 23. Rhd1 Rxd2 24. Rxd2 Rc8 25. h5 f6 26. Nd4 Bc4 27. b3 b5 
+28. Nce2 Qe5 29. g4 Bxe2 30. Nxe2 a5 31. Rd3 Rc6 32. Nd4 Rd6 33. c3 b4 34. cxb4 
+axb4 35. Nc2 f5 36. exf5 exf5 37. gxf5 Qxf5 38. Rxd6 Qxf3 39. Rd4 Qxh5 40. Nxb4 
+Qh1+ 41. Kb2 Qh2+ 42. Kc3 Qg3+ 43. Rd3 Qc7+ 44. Kb2 h5 45. a4 Qb6 46. Nd5 Qf2+ 
+47. Ka3 Qe2 48. Rd4 g5 49. a5 g4 50. a6 Qxa6+ 51. Ra4 Qe6 52. Rd4 Kf7 53. Rf4+ 
+Kg6 54. Re4 Qf5 55. Rd4 Kg5 56. Ne3 Qe5 57. Rd3 Qc7 58. Nc4 g3 59. b4 h4 60. Rd5+ 
+Kg4 61. Rd4+ Kh3 62. b5 g2 63. Rd1 Kh2 64. b6 Qc5+ 65. Kb3 g1=Q 66. Rd2+ Kg3 67. 
+Rd3+ Kf4 68. b7 Qb1+ 69. Nb2 Qb6+ 70. Ka3 Q1xb2+ 71. Ka4 Qa6# 1-0

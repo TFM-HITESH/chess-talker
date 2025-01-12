@@ -1,0 +1,25 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich, Switzerland"]
+[Date "2015.02.15"]
+[Round "5"]
+[White "Hikaru Nakamura"]
+[Black "Levon Aronian"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2773"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 
+9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. a4 Bb7 13. Nf1 exd4 14. cxd4 Rxe4 15. Ng3 
+Re8 16. Rxe8 Qxe8 17. axb5 axb5 18. Rxa8 Bxa8 19. Qd3 Ne7 20. Bd2 g6 21. Nh2 Kh7 
+22. Ng4 Nxg4 23. hxg4 Bg7 24. Nh5 Qh8 25. Bxf7 Qf8 26. Nxg7 Kxg7 27. Bxh6+ Kxf7 
+28. Bxf8 Kxf8 29. Qc3 Ke8 30. Qa5 Bc6 31. Qxc7 Kf8 32. Qd8+ Kf7 33. Qxd6 Be8 34. 
+d5 Kf8 35. Qe6 b4 36. d6 Nc6 37. d7 Bxd7 38. Qxd7 Nd4 39. Qxd4 Kf7 40. Qxb4 Kf6 
+41. Qf4+ Ke6 42. g5 Kd5 43. Qf7+ Kc5 44. Qxg6 Kd5 45. Qd3+ Kc5 46. Qc3+ Kd5 
+47. b4 Kd6 48. g6 Kd7 49. Qe5 Kc6 50. g7 Kb6 51. g8=Q Ka6 52. Qc8+ Kb6 53. Qeb8# 
+1-0

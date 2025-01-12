@@ -1,0 +1,24 @@
+[Event "FIDE Grand Swiss"]
+[Site "Isle of Man"]
+[Date "2019.10.18"]
+[Round "8"]
+[White "Alireza Firouzja"]
+[Black "Magnus Carlsen"]
+[Result "1-0"]
+[WhiteElo "2702"]
+[BlackElo "2876"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5 
+9. a3 c4 10. g4 Be7 11. f5 Nb6 12. Qg2 h5 13. gxh5 Rxh5 14. f6 gxf6 15. Qg8+ Kd7 
+16. Qxf7 Rh8 17. exf6 Rf8 18. fxe7 Qxe7 19. Qxe7+ Kxe7 20. Ng5 Kf6 21. O-O-O Rg8 
+22. h4 Bd7 23. Bh3 Rae8 24. Rdf1+ Ke7 25. Rf7+ Kd8 26. Nxd5 Nxd5 27. Rhf1 Nxe3 
+28. Rxd7+ Kc8 29. Rff7 Nd5 30. Rxd5 Kb8 31. Rdd7 Nd8 32. Rf6 Ref8 33. Rxd8+ Rxd8 
+34. Rxa6 Rxd4 35. Bg2 Rxh4 36. Ra8+ Kc7 37. Ne6+ Kd6 38. Rxg8 Kxe6 39. Rg5 Kf6 
+40. Rxb5 Ke6 41. a4 Kf6 42. b4 Ke6 43. Rc5 Kd6 44. Rc6+ Kd7 45. Kb2 Rh2 46. a5 
+Rh8 47. Rxc4 Rh4 48. Bc6+ Kd6 49. Rxh4 Kxc6 50. Kc3 1-0
