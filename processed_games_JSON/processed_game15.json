@@ -1,0 +1,950 @@
+{
+    "Metadata": {
+        "Event": "Tata Steel",
+        "White": "Viswanathan Anand",
+        "Black": "Levon Aronian",
+        "Result": "1-0",
+        "WhiteElo": "2772",
+        "BlackElo": "2802",
+        "WhiteRatingDiff": "+4",
+        "BlackRatingDiff": "-4",
+        "ECO": "E97",
+        "Opening": "King's Indian Defense: Orthodox Variation",
+        "Termination": "Normal",
+        "Round": "8"
+    },
+    "Moves": [
+        {
+            "Move Number": 1,
+            "Player": "White",
+            "Move": "d2d4",
+            "FEN": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.07,
+                "mate": null,
+                "bestmove": "bestmove g8f6 ponder g1f3",
+                "continuation": "g8f6 g1f3 e7e6 e2e3 f8e7 f1e2 d7d5 e1g1 e8g8 c2c4 c7c5 c4d5 e6d5 b1c3 b8c6 d4c5"
+            }
+        },
+        {
+            "Move Number": 2,
+            "Player": "Black",
+            "Move": "g8f6",
+            "FEN": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.71,
+                "mate": null,
+                "bestmove": "bestmove c2c4 ponder e7e6",
+                "continuation": "c2c4 e7e6 g1f3 d7d5 b1c3 f8e7 e2e3 e8g8 f1d3 c7c5 c4d5 f6d5 e1g1 b8c6 a2a3 c5d4 e3d4 g8h8 c3d5"
+            }
+        },
+        {
+            "Move Number": 3,
+            "Player": "White",
+            "Move": "c2c4",
+            "FEN": "rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.03,
+                "mate": null,
+                "bestmove": "bestmove e7e6 ponder g1f3",
+                "continuation": "e7e6 g1f3 d7d5 e2e3 f8e7 f1e2 e8g8 e1g1 d5c4 b1c3 c7c5 d4c5 d8c7 d1d4 b8d7 d4c4 c7c5 e3e4"
+            }
+        },
+        {
+            "Move Number": 4,
+            "Player": "Black",
+            "Move": "g7g6",
+            "FEN": "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.87,
+                "mate": null,
+                "bestmove": "bestmove d4d5 ponder f8g7",
+                "continuation": "d4d5 f8g7 b1c3 d7d6 g1f3 b8d7 e2e4 d7c5 f1d3 c8g4 d3c2 e8g8 e1g1 g4f3 g2f3 e7e5 c1g5"
+            }
+        },
+        {
+            "Move Number": 5,
+            "Player": "White",
+            "Move": "b1c3",
+            "FEN": "rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.99,
+                "mate": null,
+                "bestmove": "bestmove f8g7 ponder e2e4",
+                "continuation": "f8g7 e2e4 d7d6 h2h3 e8g8 g1f3 b8d7 f1d3 e7e5 d4d5 c7c6 e1g1 d7c5 d3c2 d8b6 a1b1 a7a5 b2b3 c6d5 c4d5 c8d7 c1e3"
+            }
+        },
+        {
+            "Move Number": 6,
+            "Player": "Black",
+            "Move": "f8g7",
+            "FEN": "rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.28,
+                "mate": null,
+                "bestmove": "bestmove e2e4 ponder d7d6",
+                "continuation": "e2e4 d7d6 h2h3 e8g8 g1f3 b8d7 f1d3 e7e5 d4d5 c7c6 e1g1 c6d5 c4d5 d7c5 c1e3 c5d3 d1d3 c8d7"
+            }
+        },
+        {
+            "Move Number": 7,
+            "Player": "White",
+            "Move": "e2e4",
+            "FEN": "rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.89,
+                "mate": null,
+                "bestmove": "bestmove d7d6 ponder h2h3",
+                "continuation": "d7d6 h2h3 e8g8 g1f3 e7e5 d4d5 b8d7 f1d3 b7b6 e1g1 c8b7 c1g5 h7h6 g5e3 c7c6 d1d2 c6d5 c4d5 g8h7 a2a3"
+            }
+        },
+        {
+            "Move Number": 8,
+            "Player": "Black",
+            "Move": "d7d6",
+            "FEN": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.5,
+                "mate": null,
+                "bestmove": "bestmove h2h3 ponder f6d7",
+                "continuation": "h2h3 f6d7 g1f3 e8g8 f1e2 c7c5 d4d5 b8a6 e1g1 b7b6 c1e3 h7h6 d1d2 g6g5 a1d1 c8b7"
+            }
+        },
+        {
+            "Move Number": 9,
+            "Player": "White",
+            "Move": "g1f3",
+            "FEN": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.27,
+                "mate": null,
+                "bestmove": "bestmove c8g4 ponder f1e2",
+                "continuation": "c8g4 f1e2 e8g8 e1g1 f6d7 d1d2 b8c6 d4d5 g4f3 e2f3 c6d4 f3d1 c7c6 h2h3 c6d5 c3d5"
+            }
+        },
+        {
+            "Move Number": 10,
+            "Player": "Black",
+            "Move": "e8g8",
+            "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.36,
+                "mate": null,
+                "bestmove": "bestmove h2h3 ponder c7c5",
+                "continuation": "h2h3 c7c5 d4d5 b8d7 f1d3 h7h6 a2a3 g6g5 e1g1 b7b6 e4e5 d7e5 f3e5 d6e5 f1e1 f6h7 c1d2 f7f5"
+            }
+        },
+        {
+            "Move Number": 11,
+            "Player": "White",
+            "Move": "f1e2",
+            "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.81,
+                "mate": null,
+                "bestmove": "bestmove c7c5 ponder d4d5",
+                "continuation": "c7c5 d4d5 b8d7 e1g1 h7h6 h2h3 g6g5 c1e3 b7b6 a1c1 c8b7 b2b3 f6h7 a2a4 a8c8"
+            }
+        },
+        {
+            "Move Number": 12,
+            "Player": "Black",
+            "Move": "e7e5",
+            "FEN": "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.1,
+                "mate": null,
+                "bestmove": "bestmove d4d5 ponder f6h5",
+                "continuation": "d4d5 f6h5 e1g1 h5f4 h2h3 f7f5 a1b1 f4e2 d1e2 f5f4 b2b3 b8d7 c1b2 b7b6 c3b5 c8b7 f1e1 a7a5 b1d1 d7c5"
+            }
+        },
+        {
+            "Move Number": 13,
+            "Player": "White",
+            "Move": "e1g1",
+            "FEN": "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.57,
+                "mate": null,
+                "bestmove": "bestmove e5d4 ponder f3d4",
+                "continuation": "e5d4 f3d4 b8c6 c1e3 c6d4 e3d4 b7b6 f2f3 c8b7 d1d2 f6h5 d4g7 h5g7 a1d1 a7a5 c3d5 f7f5"
+            }
+        },
+        {
+            "Move Number": 14,
+            "Player": "Black",
+            "Move": "b8c6",
+            "FEN": "r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.56,
+                "mate": null,
+                "bestmove": "bestmove d4d5 ponder c6e7",
+                "continuation": "d4d5 c6e7 h2h3 h7h6 c1d2 c7c6 f1e1 g6g5 f3h2 c8d7 a1c1 e7g6 d1b3 b7b6 h2g4 f6g4 e2g4"
+            }
+        },
+        {
+            "Move Number": 15,
+            "Player": "White",
+            "Move": "d4d5",
+            "FEN": "r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.8,
+                "mate": null,
+                "bestmove": "bestmove c6e7 ponder c1d2",
+                "continuation": "c6e7 c1d2 f6h5 f1e1 f7f5 e2f1 f5f4 h2h3 h5f6 c4c5 a7a6 d1b3 f6d7 c5d6 c7d6 a1d1"
+            }
+        },
+        {
+            "Move Number": 16,
+            "Player": "Black",
+            "Move": "c6e7",
+            "FEN": "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.37,
+                "mate": null,
+                "bestmove": "bestmove h2h3 ponder f6h5",
+                "continuation": "h2h3 f6h5 a2a4 c7c6 f1e1 h7h6 a1a2 c6d5 e4d5 f7f5 e2f1 h5f6 b2b4 f5f4"
+            }
+        },
+        {
+            "Move Number": 17,
+            "Player": "White",
+            "Move": "f3e1",
+            "FEN": "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.54,
+                "mate": null,
+                "bestmove": "bestmove f6d7 ponder e1d3",
+                "continuation": "f6d7 e1d3 f7f5 f2f3 f5f4 b2b3 c7c6 c1b2 d7f6 d1e1 c6d5 c4d5 c8d7 e1f2 b7b5 a1d1 a7a6"
+            }
+        },
+        {
+            "Move Number": 18,
+            "Player": "Black",
+            "Move": "f6d7",
+            "FEN": "r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 w - - 3 10",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.34,
+                "mate": null,
+                "bestmove": "bestmove f2f3 ponder f7f5",
+                "continuation": "f2f3 f7f5 c1e3 f5f4 e3f2 b7b6 e1d3 c8b7 d1d2 h7h6 a1c1 g6g5 b2b3 a8c8 c3b5 c8a8 h2h3 e7g6"
+            }
+        },
+        {
+            "Move Number": 19,
+            "Player": "White",
+            "Move": "e1d3",
+            "FEN": "r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 b - - 4 10",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.72,
+                "mate": null,
+                "bestmove": "bestmove f7f5 ponder f2f3",
+                "continuation": "f7f5 f2f3 d7f6 c1e3 b7b6 d1d2 f5f4 e3f2 c8d7 a1c1 c7c6 h2h3 h7h6 b2b3 c6d5 c3d5 e7d5 c4d5 a8c8 c1c8 d8c8"
+            }
+        },
+        {
+            "Move Number": 20,
+            "Player": "Black",
+            "Move": "f7f5",
+            "FEN": "r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 w - - 0 11",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.21,
+                "mate": null,
+                "bestmove": "bestmove f2f3 ponder d7f6",
+                "continuation": "f2f3 d7f6 c1e3 b7b6 d1d2 f5f4 e3f2 c7c6 a1b1 c6d5 c4d5 g6g5 h2h3 c8d7 b2b3"
+            }
+        },
+        {
+            "Move Number": 21,
+            "Player": "White",
+            "Move": "f2f3",
+            "FEN": "r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN1P2/PP2B1PP/R1BQ1RK1 b - - 0 11",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.75,
+                "mate": null,
+                "bestmove": "bestmove c7c6 ponder c1e3",
+                "continuation": "c7c6 c1e3 d7f6 a1c1 b7b6 d1d2 c6d5 c4d5 c8d7 e3g5 a8c8 g1h1 c8a8 g5f6 g7f6"
+            }
+        },
+        {
+            "Move Number": 22,
+            "Player": "Black",
+            "Move": "g8h8",
+            "FEN": "r1bq1r1k/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN1P2/PP2B1PP/R1BQ1RK1 w - - 1 12",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.22,
+                "mate": null,
+                "bestmove": "bestmove c1e3 ponder c7c6",
+                "continuation": "c1e3 c7c6 c4c5 d7c5 d3c5 c6d5 c3d5 e7d5 d1d5 f5f4 a1d1 f4e3 c5b7 c8b7 d5b7 a7a5 b7b3 d8g5 d1d6"
+            }
+        },
+        {
+            "Move Number": 23,
+            "Player": "White",
+            "Move": "g2g4",
+            "FEN": "r1bq1r1k/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2NN1P2/PP2B2P/R1BQ1RK1 b - - 0 12",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.06,
+                "mate": null,
+                "bestmove": "bestmove c7c6 ponder c1e3",
+                "continuation": "c7c6 c1e3 d7f6 h2h3 c6d5 c4d5 c8d7 d1b3 b7b5 b3a3 d8b8 a3a5 f5f4 e3f2 b8b7 a1c1"
+            }
+        },
+        {
+            "Move Number": 24,
+            "Player": "Black",
+            "Move": "e7g8",
+            "FEN": "r1bq1rnk/pppn2bp/3p2p1/3Ppp2/2P1P1P1/2NN1P2/PP2B2P/R1BQ1RK1 w - - 1 13",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.97,
+                "mate": null,
+                "bestmove": "bestmove c1e3 ponder f5f4",
+                "continuation": "c1e3 f5f4 e3f2 b7b6 h2h4 g8f6 d1d2 h7h6 g1g2 h8g8 a2a3 c8b7 b2b3 a7a5 a1c1 f6h7 a3a4 h7f6"
+            }
+        },
+        {
+            "Move Number": 25,
+            "Player": "White",
+            "Move": "g4f5",
+            "FEN": "r1bq1rnk/pppn2bp/3p2p1/3PpP2/2P1P3/2NN1P2/PP2B2P/R1BQ1RK1 b - - 0 13",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.05,
+                "mate": null,
+                "bestmove": "bestmove g6f5 ponder e4f5",
+                "continuation": "g6f5 e4f5 d7f6 g1h1 c8f5 f1g1 f6h5 c1g5 d8e8 a1c1 g8e7 d1b3"
+            }
+        },
+        {
+            "Move Number": 26,
+            "Player": "Black",
+            "Move": "g6f5",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/3Ppp2/2P1P3/2NN1P2/PP2B2P/R1BQ1RK1 w - - 0 14",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.46,
+                "mate": null,
+                "bestmove": "bestmove g1h1 ponder f5f4",
+                "continuation": "g1h1 f5f4 f1g1 f8f6 c1d2 f6h6 g1g2 g8e7 d1c2 e7g6 a1g1 d7f6 c2b3 b7b6 d3f2 h8g8 a2a3"
+            }
+        },
+        {
+            "Move Number": 27,
+            "Player": "White",
+            "Move": "g1h1",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/3Ppp2/2P1P3/2NN1P2/PP2B2P/R1BQ1R1K b - - 1 14",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.25,
+                "mate": null,
+                "bestmove": "bestmove f5f4 ponder c1d2",
+                "continuation": "f5f4 c1d2 d7f6 c4c5 f6h5 d2e1 g7f6 f1g1 g8e7 e1f2 e7g6 a1c1 f6h4 c5d6 c7d6"
+            }
+        },
+        {
+            "Move Number": 28,
+            "Player": "Black",
+            "Move": "f5f4",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/3Pp3/2P1Pp2/2NN1P2/PP2B2P/R1BQ1R1K w - - 0 15",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.13,
+                "mate": null,
+                "bestmove": "bestmove c1d2 ponder g8e7",
+                "continuation": "c1d2 g8e7 a1c1 d7f6 f1g1 e7g6 c4c5 f6h5 d2e1 f8g8 e2f1 g7f6 c5d6 c7d6 d3f2"
+            }
+        },
+        {
+            "Move Number": 29,
+            "Player": "White",
+            "Move": "f1g1",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/3Pp3/2P1Pp2/2NN1P2/PP2B2P/R1BQ2RK b - - 1 15",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.31,
+                "mate": null,
+                "bestmove": "bestmove f8f6 ponder b2b3",
+                "continuation": "f8f6 b2b3 f6h6 d3f2 d7f6 g1g2 f6h5 f2g4 h6g6 d1e1 h5f6 c1b2 c8g4 f3g4 g8e7"
+            }
+        },
+        {
+            "Move Number": 30,
+            "Player": "Black",
+            "Move": "d8e8",
+            "FEN": "r1b1qrnk/pppn2bp/3p4/3Pp3/2P1Pp2/2NN1P2/PP2B2P/R1BQ2RK w - - 2 16",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.71,
+                "mate": null,
+                "bestmove": "bestmove c1d2 ponder g8e7",
+                "continuation": "c1d2 g8e7 a2a4 e7g6 b2b4 d7f6 c4c5 f6h5 g1g5 h5f6 c3b5 e8d7 c5d6 c7d6 g5g1"
+            }
+        },
+        {
+            "Move Number": 31,
+            "Player": "White",
+            "Move": "c3b5",
+            "FEN": "r1b1qrnk/pppn2bp/3p4/1N1Pp3/2P1Pp2/3N1P2/PP2B2P/R1BQ2RK b - - 3 16",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.54,
+                "mate": null,
+                "bestmove": "bestmove e8d8 ponder b5a7",
+                "continuation": "e8d8 b5a7 a8a7 g1g7 h8g7 d1g1 g7h8 g1a7 g8f6 c1d2 f6h5 a7f2 b7b6 a1g1 d7f6 f2g2 f8g8"
+            }
+        },
+        {
+            "Move Number": 32,
+            "Player": "Black",
+            "Move": "e8d8",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/1N1Pp3/2P1Pp2/3N1P2/PP2B2P/R1BQ2RK w - - 4 17",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 1.22,
+                "mate": null,
+                "bestmove": "bestmove b5a7 ponder a8a7",
+                "continuation": "b5a7 a8a7 g1g7 h8g7 d1g1 g7h8 g1a7 d7f6 c1d2 f6h5 a7f2 g8f6 a1g1 f8g8 c4c5 c8d7"
+            }
+        },
+        {
+            "Move Number": 33,
+            "Player": "White",
+            "Move": "b2b4",
+            "FEN": "r1bq1rnk/pppn2bp/3p4/1N1Pp3/1PP1Pp2/3N1P2/P3B2P/R1BQ2RK b - - 0 17",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.27,
+                "mate": null,
+                "bestmove": "bestmove a7a6 ponder b5c3",
+                "continuation": "a7a6 b5c3 a6a5 b4a5 a8a5 c1d2 g8f6 c3b5 a5a6 a2a4 f6h5 d2e1 f8g8 a4a5 d7c5 d3c5 d6c5"
+            }
+        },
+        {
+            "Move Number": 34,
+            "Player": "Black",
+            "Move": "a7a6",
+            "FEN": "r1bq1rnk/1ppn2bp/p2p4/1N1Pp3/1PP1Pp2/3N1P2/P3B2P/R1BQ2RK w - - 0 18",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.49,
+                "mate": null,
+                "bestmove": "bestmove b5c3 ponder a6a5",
+                "continuation": "b5c3 a6a5 b4a5 a8a5 c1d2 b7b6 c3b5 a5a8 d2e1 g8e7 a2a4 f8g8 a4a5 c8b7 e1h4 b6a5"
+            }
+        },
+        {
+            "Move Number": 35,
+            "Player": "White",
+            "Move": "b5c3",
+            "FEN": "r1bq1rnk/1ppn2bp/p2p4/3Pp3/1PP1Pp2/2NN1P2/P3B2P/R1BQ2RK b - - 1 18",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.45,
+                "mate": null,
+                "bestmove": "bestmove g8e7 ponder c1d2",
+                "continuation": "g8e7 c1d2 d7f6 d2e1 e7g6 a2a4 c8d7 a4a5 f6h5 e1f2 g6h4 d1c2 f8g8 c2b3 a8c8 a1c1"
+            }
+        },
+        {
+            "Move Number": 36,
+            "Player": "Black",
+            "Move": "d7f6",
+            "FEN": "r1bq1rnk/1pp3bp/p2p1n2/3Pp3/1PP1Pp2/2NN1P2/P3B2P/R1BQ2RK w - - 2 19",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0,
+                "mate": null,
+                "bestmove": "bestmove c1d2 ponder g8e7",
+                "continuation": "c1d2 g8e7 a2a4 e7g6 d2e1 f6h5 a4a5 c8d7 a1a3 g6h4 d3f2 h5f6 f2d3 f6h5"
+            }
+        },
+        {
+            "Move Number": 37,
+            "Player": "White",
+            "Move": "a2a4",
+            "FEN": "r1bq1rnk/1pp3bp/p2p1n2/3Pp3/PPP1Pp2/2NN1P2/4B2P/R1BQ2RK b - - 0 19",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.68,
+                "mate": null,
+                "bestmove": "bestmove f6h5 ponder c1d2",
+                "continuation": "f6h5 c1d2 g8h6 d2e1 h6f7 a4a5 g7f6 e2f1 c8d7 d1e2 f7g5 d3f2 f6e7 f2g4 f8g8"
+            }
+        },
+        {
+            "Move Number": 38,
+            "Player": "Black",
+            "Move": "c8d7",
+            "FEN": "r2q1rnk/1ppb2bp/p2p1n2/3Pp3/PPP1Pp2/2NN1P2/4B2P/R1BQ2RK w - - 1 20",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.33,
+                "mate": null,
+                "bestmove": "bestmove c1d2 ponder f6h5",
+                "continuation": "c1d2 f6h5 d2e1 g8h6 b4b5 g7f6 b5a6 a8a6 e1f2 f6h4 c4c5 a6a8 c5d6 h4f2 d3f2 d8h4"
+            }
+        },
+        {
+            "Move Number": 39,
+            "Player": "White",
+            "Move": "c4c5",
+            "FEN": "r2q1rnk/1ppb2bp/p2p1n2/2PPp3/PP2Pp2/2NN1P2/4B2P/R1BQ2RK b - - 0 20",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.52,
+                "mate": null,
+                "bestmove": "bestmove f6h5 ponder c1b2",
+                "continuation": "f6h5 c1b2 d8h4 d1e1 h5g3 g1g3 f4g3 e1g3 g7f6 a1g1 h4g3 h2g3 a6a5"
+            }
+        },
+        {
+            "Move Number": 40,
+            "Player": "Black",
+            "Move": "f6h5",
+            "FEN": "r2q1rnk/1ppb2bp/p2p4/2PPp2n/PP2Pp2/2NN1P2/4B2P/R1BQ2RK w - - 1 21",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.3,
+                "mate": null,
+                "bestmove": "bestmove d1e1 ponder d8e8",
+                "continuation": "d1e1 d8e8 c1a3 h5g3 g1g3 f4g3 e1g3 e8g6 g3g6 h7g6 b4b5 a6b5 c5d6 c7d6"
+            }
+        },
+        {
+            "Move Number": 41,
+            "Player": "White",
+            "Move": "d1e1",
+            "FEN": "r2q1rnk/1ppb2bp/p2p4/2PPp2n/PP2Pp2/2NN1P2/4B2P/R1B1Q1RK b - - 2 21",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.5,
+                "mate": null,
+                "bestmove": "bestmove g7f6 ponder e1d2",
+                "continuation": "g7f6 e1d2 f6h4 c1b2 g8h6 b4b5 h6f7 c5c6 d7c8 c6b7 c8b7 b5a6 b7a6"
+            }
+        },
+        {
+            "Move Number": 42,
+            "Player": "Black",
+            "Move": "g7f6",
+            "FEN": "r2q1rnk/1ppb3p/p2p1b2/2PPp2n/PP2Pp2/2NN1P2/4B2P/R1B1Q1RK w - - 3 22",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.5,
+                "mate": null,
+                "bestmove": "bestmove c1a3 ponder f6h4",
+                "continuation": "c1a3 f6h4 e1d2 g8h6 b4b5 h6f7 c5c6 b7c6 d5c6 d7e6 c3d5 a6b5 a4b5 f7g5 b5b6 e6d5"
+            }
+        },
+        {
+            "Move Number": 43,
+            "Player": "White",
+            "Move": "a4a5",
+            "FEN": "r2q1rnk/1ppb3p/p2p1b2/P1PPp2n/1P2Pp2/2NN1P2/4B2P/R1B1Q1RK b - - 0 22",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -2.34,
+                "mate": null,
+                "bestmove": "bestmove f6h4 ponder e1d2",
+                "continuation": "f6h4 e1d2 g8f6 c1b2 d8e7 c5d6 c7d6 c3a4 d7a4 a1a4 e7d7 a4a1 h5g3 g1g3 f4g3 d2h6"
+            }
+        },
+        {
+            "Move Number": 44,
+            "Player": "Black",
+            "Move": "f6h4",
+            "FEN": "r2q1rnk/1ppb3p/p2p4/P1PPp2n/1P2Pp1b/2NN1P2/4B2P/R1B1Q1RK w - - 1 23",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -1.25,
+                "mate": null,
+                "bestmove": "bestmove e1d2 ponder g8f6",
+                "continuation": "e1d2 g8f6 c1b2 d8e7 e2d1 f8g8 d1b3 d7h3 g1g8 a8g8 a1g1 g8g1 h1g1 d6c5 d3c5 f6d7 c5d3 e7f7 g1h1 f7g7 b3d1"
+            }
+        },
+        {
+            "Move Number": 45,
+            "Player": "White",
+            "Move": "e1d1",
+            "FEN": "r2q1rnk/1ppb3p/p2p4/P1PPp2n/1P2Pp1b/2NN1P2/4B2P/R1BQ2RK b - - 2 23",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -3.62,
+                "mate": null,
+                "bestmove": "bestmove h4g3 ponder g1g2",
+                "continuation": "h4g3 g1g2 d8h4 c1b2 g8h6 c5c6 b7c6 d1a4 d7h3 a1g1 c6d5 c3d5 f8g8 d5c7"
+            }
+        },
+        {
+            "Move Number": 46,
+            "Player": "Black",
+            "Move": "g8f6",
+            "FEN": "r2q1r1k/1ppb3p/p2p1n2/P1PPp2n/1P2Pp1b/2NN1P2/4B2P/R1BQ2RK w - - 3 24",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.57,
+                "mate": null,
+                "bestmove": "bestmove c1d2 ponder f8g8",
+                "continuation": "c1d2 f8g8 g1g8 d8g8 c5d6 c7d6 d1g1 g8f7 g1b6 a8g8 a1g1 d7h3 d2e1 h4e1 g1g8 f7g8 d3e1"
+            }
+        },
+        {
+            "Move Number": 47,
+            "Player": "White",
+            "Move": "b4b5",
+            "FEN": "r2q1r1k/1ppb3p/p2p1n2/PPPPp2n/4Pp1b/2NN1P2/4B2P/R1BQ2RK b - - 0 24",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -2,
+                "mate": null,
+                "bestmove": "bestmove a6b5 ponder c5d6",
+                "continuation": "a6b5 c5d6 c7d6 c1a3 d8e7 d1b3 h5g3 h2g3 h4g3 a3d6 e7d6 b3a3 d6c7 a3c5 c7c8 d5d6 b5b4 c5c8 f8c8"
+            }
+        },
+        {
+            "Move Number": 48,
+            "Player": "Black",
+            "Move": "f8g8",
+            "FEN": "r2q2rk/1ppb3p/p2p1n2/PPPPp2n/4Pp1b/2NN1P2/4B2P/R1BQ2RK w - - 1 25",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 0.37,
+                "mate": null,
+                "bestmove": "bestmove g1g8 ponder f6g8",
+                "continuation": "g1g8 f6g8 b5a6 a8a6 c5c6 d7c8 c6b7 c8b7 c3b5 c7c5 d1c2 b7c8 c1d2"
+            }
+        },
+        {
+            "Move Number": 49,
+            "Player": "White",
+            "Move": "c5c6",
+            "FEN": "r2q2rk/1ppb3p/p1Pp1n2/PP1Pp2n/4Pp1b/2NN1P2/4B2P/R1BQ2RK b - - 0 25",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.76,
+                "mate": null,
+                "bestmove": "bestmove d7c8 ponder g1g8",
+                "continuation": "d7c8 g1g8 d8g8 c1d2 a6b5 c6b7 c8b7 d2e1 h4e1 d1e1 b7c8 e1f1 c8d7 d3b4 g8g6 e2b5 a8g8 b5d7"
+            }
+        },
+        {
+            "Move Number": 50,
+            "Player": "Black",
+            "Move": "d7c8",
+            "FEN": "r1bq2rk/1pp4p/p1Pp1n2/PP1Pp2n/4Pp1b/2NN1P2/4B2P/R1BQ2RK w - - 1 26",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.02,
+                "mate": null,
+                "bestmove": "bestmove c6b7 ponder c8b7",
+                "continuation": "c6b7 c8b7 g1g8 d8g8 e2f1 a6b5 a1a2 b7c8 c3b5 g8g7 d3b4 f6g4 b5c7 g4f2 a2f2 g7c7 f2c2 c7a5"
+            }
+        },
+        {
+            "Move Number": 51,
+            "Player": "White",
+            "Move": "c1b2",
+            "FEN": "r1bq2rk/1pp4p/p1Pp1n2/PP1Pp2n/4Pp1b/2NN1P2/1B2B2P/R2Q2RK b - - 2 26",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": -0.88,
+                "mate": null,
+                "bestmove": "bestmove a6b5 ponder g1g8",
+                "continuation": "a6b5 g1g8 d8g8 c6b7 c8b7 c3b5 g8g7 a1c1 a8g8 d1f1 h5g3 h2g3 h4g3 f1h3 b7c8 c1c7 c8h3 c7g7 h8g7 b5d6"
+            }
+        },
+        {
+            "Move Number": 52,
+            "Player": "Black",
+            "Move": "c8h3",
+            "FEN": "r2q2rk/1pp4p/p1Pp1n2/PP1Pp2n/4Pp1b/2NN1P1b/1B2B2P/R2Q2RK w - - 3 27",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 6.81,
+                "mate": null,
+                "bestmove": "bestmove c6b7 ponder a8a7",
+                "continuation": "c6b7 a8a7 b5a6 d8b8 g1g8 f6g8 d1g1 a7a6 d3e5 d6e5 e2a6 g8h6 c3b5 h6f7 b5a7"
+            }
+        },
+        {
+            "Move Number": 53,
+            "Player": "White",
+            "Move": "c6b7",
+            "FEN": "r2q2rk/1Pp4p/p2p1n2/PP1Pp2n/4Pp1b/2NN1P1b/1B2B2P/R2Q2RK b - - 0 27",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 6.5,
+                "mate": null,
+                "bestmove": "bestmove a8b8 ponder b5a6",
+                "continuation": "a8b8 b5a6 h5g3 h2g3 f4g3 e2f1 d8d7 c3e2 h7h6 e2f4 e5f4 d3f4 h3f1 d1f1 h8h7 f4e6 h6h5"
+            }
+        },
+        {
+            "Move Number": 54,
+            "Player": "Black",
+            "Move": "a8b8",
+            "FEN": "1r1q2rk/1Pp4p/p2p1n2/PP1Pp2n/4Pp1b/2NN1P1b/1B2B2P/R2Q2RK w - - 1 28",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 8,
+                "mate": null,
+                "bestmove": "bestmove b5a6 ponder g8g1",
+                "continuation": "b5a6 g8g1 d1g1 f6d7 e2f1 h3f1 g1f1 h8g8 f1g2 g8f7 a1g1 d7c5 d3b4"
+            }
+        },
+        {
+            "Move Number": 55,
+            "Player": "White",
+            "Move": "b5a6",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp2n/4Pp1b/2NN1P1b/1B2B2P/R2Q2RK b - - 0 28",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 3.85,
+                "mate": null,
+                "bestmove": "bestmove h5g3 ponder h2g3",
+                "continuation": "h5g3 h2g3 h4g3 c3b5 f6e4 b5d6 c7d6 f3e4 h3d7"
+            }
+        },
+        {
+            "Move Number": 56,
+            "Player": "Black",
+            "Move": "h5g3",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4Pp1b/2NN1Pnb/1B2B2P/R2Q2RK w - - 1 29",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 3.97,
+                "mate": null,
+                "bestmove": "bestmove h2g3 ponder h4g3",
+                "continuation": "h2g3 h4g3 e2f1 h3d7 g1g3 g8g3 d1e2 d8f8 d3e1 g3g5 e2f2 f6h5 f1g2"
+            }
+        },
+        {
+            "Move Number": 57,
+            "Player": "White",
+            "Move": "h2g3",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4Pp1b/2NN1PPb/1B2B3/R2Q2RK b - - 0 29",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 2.75,
+                "mate": null,
+                "bestmove": "bestmove h4g3 ponder e2f1",
+                "continuation": "h4g3 e2f1 h3d7 g1g3 f4g3 d1e2 f6h5 h1g1 d8g5 a1b1 g8g6 b1c1 g5h4"
+            }
+        },
+        {
+            "Move Number": 58,
+            "Player": "Black",
+            "Move": "f4g3",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4P2b/2NN1Ppb/1B2B3/R2Q2RK w - - 0 30",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 7.57,
+                "mate": null,
+                "bestmove": "bestmove e2f1 ponder d8d7",
+                "continuation": "e2f1 d8d7 f1g2 h4g5 g1e1 c7c5 d1a4 g5d2 a4d7 h3g2 h1g2 f6d7 c3b5 c5c4 b5d6"
+            }
+        },
+        {
+            "Move Number": 59,
+            "Player": "White",
+            "Move": "d1c2",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4P2b/2NN1Ppb/1BQ1B3/R5RK b - - 1 30",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -7,
+                "bestmove": "bestmove g3g2 ponder g1g2",
+                "continuation": "g3g2 g1g2 h3g2 h1g1 g2f3 g1h2 g8g2 h2h1 g2e2 h1g1 d8g8 g1f1 g8g2"
+            }
+        },
+        {
+            "Move Number": 60,
+            "Player": "Black",
+            "Move": "g3g2",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4P2b/2NN1P1b/1BQ1B1p1/R5RK w - - 0 31",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": "-6",
+                "bestmove": "bestmove g1g2 ponder h3g2",
+                "continuation": "g1g2 h3g2 h1g1 g2f3 g1h2 g8g2 h2h1 g2e2 h1g1 d8g8 g1f1 g8g2"
+            }
+        },
+        {
+            "Move Number": 61,
+            "Player": "White",
+            "Move": "h1h2",
+            "FEN": "1r1q2rk/1Pp4p/P2p1n2/P2Pp3/4P2b/2NN1P1b/1BQ1B1pK/R5R1 b - - 1 31",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -5,
+                "bestmove": "bestmove h4g3 ponder h2h3",
+                "continuation": "h4g3 h2h3 f6d5 c3d5 d8h4 h3g2 g3h2 g2f1 g8g1"
+            }
+        },
+        {
+            "Move Number": 62,
+            "Player": "Black",
+            "Move": "f6h5",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp2n/4P2b/2NN1P1b/1BQ1B1pK/R5R1 w - - 2 32",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": "-6",
+                "bestmove": "bestmove e2d1 ponder h4g3",
+                "continuation": "e2d1 h4g3 h2h3 g3e1 c2f2 e1f2 d3f2 g8g3 h3h2 d8h4 f2h3 h4h3"
+            }
+        },
+        {
+            "Move Number": 63,
+            "Player": "White",
+            "Move": "f3f4",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp2n/4PP1b/2NN3b/1BQ1B1pK/R5R1 b - - 0 32",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -5,
+                "bestmove": "bestmove h4g3 ponder h2h3",
+                "continuation": "h4g3 h2h3 h5f4 d3f4 d8h4 h3g2 h4h2 g2f1 h2f2"
+            }
+        },
+        {
+            "Move Number": 64,
+            "Player": "Black",
+            "Move": "h4g3",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp2n/4PP2/2NN2bb/1BQ1B1pK/R5R1 w - - 1 33",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": "-4",
+                "bestmove": "bestmove h2h3 ponder h5f4",
+                "continuation": "h2h3 h5f4 d3f4 d8h4 h3g2 h4h2 g2f1 h2f2"
+            }
+        },
+        {
+            "Move Number": 65,
+            "Player": "White",
+            "Move": "h2h3",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp2n/4PP2/2NN2bK/1BQ1B1p1/R5R1 b - - 0 33",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -4,
+                "bestmove": "bestmove h5f4 ponder d3f4",
+                "continuation": "h5f4 d3f4 d8h4 h3g2 h4h2 g2f3 h2f2"
+            }
+        },
+        {
+            "Move Number": 66,
+            "Player": "Black",
+            "Move": "h5f4",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp3/4Pn2/2NN2bK/1BQ1B1p1/R5R1 w - - 0 34",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": "-3",
+                "bestmove": "bestmove d3f4 ponder d8h4",
+                "continuation": "d3f4 d8h4 h3g2 h4h2 g2f1 h2f2"
+            }
+        },
+        {
+            "Move Number": 67,
+            "Player": "White",
+            "Move": "d3f4",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2Pp3/4PN2/2N3bK/1BQ1B1p1/R5R1 b - - 0 34",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -3,
+                "bestmove": "bestmove d8h4 ponder h3g2",
+                "continuation": "d8h4 h3g2 h4h2 g2f1 h2f2"
+            }
+        },
+        {
+            "Move Number": 68,
+            "Player": "Black",
+            "Move": "e5f4",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/P2P4/4Pp2/2N3bK/1BQ1B1p1/R5R1 w - - 0 35",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 19.88,
+                "mate": null,
+                "bestmove": "bestmove c3b5 ponder g8g7",
+                "continuation": "c3b5 g8g7 b2g7 h8g8 h3g2 d8h4 g1h1 g3h2 c2c3 f4f3 c3f3 h4g5 g2h2 g5g7 a6a7"
+            }
+        },
+        {
+            "Move Number": 69,
+            "Player": "White",
+            "Move": "c3b5",
+            "FEN": "1r1q2rk/1Pp4p/P2p4/PN1P4/4Pp2/6bK/1BQ1B1p1/R5R1 b - - 1 35",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 20.81,
+                "mate": null,
+                "bestmove": "bestmove g8g7 ponder b2g7",
+                "continuation": "g8g7 b2g7 h8g7 c2c7 d8c7 b5c7 g7f7 a6a7 b8b7 a7a8q b7c7 a8d8 c7b7 d8d6 b7b3 h3g2 f7g7"
+            }
+        },
+        {
+            "Move Number": 70,
+            "Player": "Black",
+            "Move": "g8g7",
+            "FEN": "1r1q3k/1Pp3rp/P2p4/PN1P4/4Pp2/6bK/1BQ1B1p1/R5R1 w - - 2 36",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": 19.45,
+                "mate": null,
+                "bestmove": "bestmove b2g7 ponder h8g7",
+                "continuation": "b2g7 h8g7 h3g2 g7f6 b5c7 f4f3 g2f3 g3h2 a6a7 h2g1 a7a8q g1c5 c7e6 b8a8 c2b2 f6e7 e6d8"
+            }
+        },
+        {
+            "Move Number": 71,
+            "Player": "White",
+            "Move": "g1g2",
+            "FEN": "1r1q3k/1Pp3rp/P2p4/PN1P4/4Pp2/6bK/1BQ1B1R1/R7 b - - 0 36",
+            "Stockfish Analysis": {
+                "success": true,
+                "evaluation": null,
+                "mate": -1,
+                "bestmove": "bestmove d8h4",
+                "continuation": "d8h4"
+            }
+        },
+        {
+            "Move Number": 72,
+            "Player": "Black",
+            "Move": "d8h4",
+            "FEN": "1r5k/1Pp3rp/P2p4/PN1P4/4Pp1q/6bK/1BQ1B1R1/R7 w - - 1 37",
+            "Stockfish Analysis": {
+                "error": "Empty response from API"
+            }
+        }
+    ]
+}
