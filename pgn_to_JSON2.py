@@ -93,7 +93,7 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
         os.makedirs(output_folder)
 
     # Loop through all the game files in the datasets folder
-    for i in range(1, 6):
+    for i in range(6, 21):
         pgn_file_path = os.path.join(dataset_folder, f"game{i}.pgn")
         output_json_path = os.path.join(output_folder, f"processed_game{i}.json")
 
