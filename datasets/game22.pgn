@@ -1,0 +1,17 @@
+[Event "FIDE Candidates Tournament"]
+[Site "Berlin, Germany"]
+[Date "2018.03.10"]
+[Round "3"]
+[White "Levon Aronian"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[WhiteElo "2794"]
+[BlackElo "2800"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[TimeControl "40/7200:20/3600"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Ne2 b6 12. Rd1 Ba6 13. Nf4 Be7 14. b3 Rd8 15. Bb2 Rh6 16. c4 g5 17. Ne2 c5 18. Nc3 Bb7 19. Nd5 g4 20. hxg4 hxg4 21. Nh2 g3 22. Ng4 gxf2+ 23. Kxf2 Rg6 24. Ngf6+ Kf8 25. Rh1 Bxf6 26. exf6 Bxd5 27. cxd5 Rxd5 28. Rh8+ Rg8 29. Rah1 Rd2+ 30. Ke1 Rxb2 31. Rxg8+ Kxg8 32. Rh5 Nd4 33. Rg5+ Kf8 34. Rh5 Ke8 35. Rh8+ Kd7 36. Rf8 Ke6 37. Rc8 Kxf6 38. Rxc7 Rxa2 39. g4 Nxb3 40. g5+ Kg6 41. Rc6+ Kxg5 42. Rc7 f5 43. Rg7+ Kf4 44. Rg2 Rxg2 0-1

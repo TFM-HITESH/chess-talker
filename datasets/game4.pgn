@@ -1,22 +1,20 @@
-[Event "Candidates Tournament"]
-[Site "Bled-Zagreb-Belgrade YUG"]
-[Date "1959.09.10"]
-[Round "8"]
-[White "Mikhail Tal"]
-[Black "Bobby Fischer"]
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.10.11"]
+[EventDate "1959.09.07"]
+[Round "20"]
 [Result "1-0"]
-[WhiteElo "2700"]
-[BlackElo "2625"]
-[WhiteRatingDiff "+4"]
-[BlackRatingDiff "-4"]
-[ECO "A80"]
-[Opening "Dutch Defense"]
-[TimeControl "40/7200:20/3600"]
-[Termination "Normal"]
+[White "Mikhail Tal"]
+[Black "Robert James Fischer"]
+[ECO "E93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
 
-1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. g3 Be7 5. Bg2 O-O 6. Nf3 d6 7. O-O Qe8 8. Qc2 Nc6 
-9. a3 a5 10. d5 Nd8 11. dxe6 Nxe6 12. b4 axb4 13. Nb5 bxa3 14. Rxa3 Rxa3 15. Bxa3 
-Qh5 16. c5 f4 17. cxd6 Bxd6 18. Nxd6 cxd6 19. Bxd6 Rd8 20. Be7 Re8 21. Bxf6 gxf6 
-22. Qb3 Kh8 23. Rd1 Ng5 24. Nxg5 Qxg5 25. Qf7 Rg8 26. Rd6 Qh6 27. Rxf6 Qg7 28. Qxg7+ 
-Kxg7 29. Rxf4 Re8 30. e4 b5 31. e5 Be6 32. Rb4 Bc4 33. f4 Rd8 34. Be4 Rd4 35. Bf3 
-Rd2 36. Rb1 Kf7 37. Rd1 Ra2 38. Rd7+ Ke6 39. Rd6+ Kf5 40. Rf6# 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5
+7. d5 Nbd7 8. Bg5 h6 9. Bh4 a6 10. O-O Qe8 11. Nd2 Nh7 12. b4
+Bf6 13. Bxf6 Nhxf6 14. Nb3 Qe7 15. Qd2 Kh7 16. Qe3 Ng8 17. c5
+f5 18. exf5 gxf5 19. f4 exf4 20. Qxf4 dxc5 21. Bd3 cxb4
+22. Rae1 Qf6 23. Re6 Qxc3 24. Bxf5+ Rxf5 25. Qxf5+ Kh8 26. Rf3
+Qb2 27. Re8 Nf6 28. Qxf6+ Qxf6 29. Rxf6 Kg7 30. Rff8 Ne7
+31. Na5 h5 32. h4 Rb8 33. Nc4 b5 34. Ne5 1-0

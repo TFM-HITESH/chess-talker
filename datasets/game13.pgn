@@ -1,22 +1,22 @@
-[Event "Wijk aan Zee"]
-[Site "Wijk aan Zee, Netherlands"]
+[Event "Hoogovens Group A"]
+[Site "Wijk aan Zee NED"]
 [Date "1999.01.20"]
+[EventDate "1999.01.16"]
 [Round "4"]
+[Result "1-0"]
 [White "Garry Kasparov"]
 [Black "Veselin Topalov"]
-[Result "1-0"]
+[ECO "B07"]
 [WhiteElo "2812"]
 [BlackElo "2700"]
-[WhiteRatingDiff "+5"]
-[BlackRatingDiff "-5"]
-[ECO "B06"]
-[Opening "Robatsch Defense"]
-[TimeControl "40/7200:20/3600"]
-[Termination "Normal"]
+[PlyCount "87"]
 
-1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. Qd2 Ng4 6. Bg5 h6 7. Bh4 g5 8. Bg3 Nc6 
-9. f3 Nf6 10. Nge2 Nh5 11. Bf2 f5 12. h4 g4 13. exf5 Bxf5 14. d5 Ne5 15. Nd4 O-O 
-16. O-O-O Bd7 17. Ne6 Bxe6 18. dxe6 c6 19. Ne4 Nf4 20. g3 Nh5 21. f4 Nf3 22. Qe3 
-Qa5 23. Kb1 Rf5 24. Be2 Rb5 25. b3 d5 26. Nc5 Rxc5 27. Qxc5 Nd2+ 28. Rxd2 Qxd2 
-29. Bd3 Nxg3 30. Bd4 Bxd4 31. Qxd4 Nxh1 32. Kb2 Qg2 33. f6 exf6 34. Qxf6 Rf8 
-35. Qg6+ Kh8 36. Qh7# 1-0
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. f3 b5
+7. Nge2 Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3 e5 11. O-O-O Qe7
+12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6
+17. g3 Kb8 18. Na5 Ba8 19. Bh3 d5 20. Qf4+ Ka7 21. Rhe1 d4
+22. Nd5 Nbxd5 23. exd5 Qd6 24. Rxd4 cxd4 25. Re7+ Kb6
+26. Qxd4+ Kxa5 27. b4+ Ka4 28. Qc3 Qxd5 29. Ra7 Bb7 30. Rxb7
+Qc4 31. Qxf6 Kxa3 32. Qxa6+ Kxb4 33. c3+ Kxc3 34. Qa1+ Kd2
+35. Qb2+ Kd1 36. Bf1 Rd2 37. Rd7 Rxd7 38. Bxc4 bxc4 39. Qxh8
+Rd3 40. Qa8 c3 41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 1-0

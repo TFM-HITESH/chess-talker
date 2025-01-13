@@ -4,7 +4,7 @@ import chess
 import chess.pgn
 import os
 import time  # Importing time for sleep functionality
-# 4,9,11,12,15, 19 need to be fixed
+
 
 def analyze_with_stockfish_api(fen, depth):
     """
@@ -93,7 +93,7 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
         os.makedirs(output_folder)
 
     # Loop through all the game files in the datasets folder
-    for i in range(4, 5):
+    for i in range(1, 6):
         pgn_file_path = os.path.join(dataset_folder, f"game{i}.pgn")
         output_json_path = os.path.join(output_folder, f"processed_game{i}.json")
 
@@ -105,19 +105,20 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
 
             # Extract new metadata
             game_metadata = {
-                "Event": game.headers.get("Event", "Unknown Event"),
-                "White": game.headers.get("White", "Unknown Player"),
-                "Black": game.headers.get("Black", "Unknown Player"),
-                "Result": game.headers.get("Result", "Unknown Result"),
-                "WhiteElo": game.headers.get("WhiteElo", "Unknown Elo"),
-                "BlackElo": game.headers.get("BlackElo", "Unknown Elo"),
-                "WhiteRatingDiff": game.headers.get("WhiteRatingDiff", "Unknown Diff"),
-                "BlackRatingDiff": game.headers.get("BlackRatingDiff", "Unknown Diff"),
-                "ECO": game.headers.get("ECO", "Unknown ECO"),
-                "Opening": game.headers.get("Opening", "Unknown Opening"),
-                "Termination": game.headers.get("Termination", "Unknown Termination"),
-                "Round": game.headers.get("Round", "Unknown Round")
+                "Event": game.headers.get("Event", "?"),
+                "White": game.headers.get("White", "?"),
+                "Black": game.headers.get("Black", "?"),
+                "Result": game.headers.get("Result", "?"),
+                "WhiteElo": game.headers.get("WhiteElo", "?"),
+                "BlackElo": game.headers.get("BlackElo", "?"),
+                "WhiteRatingDiff": game.headers.get("WhiteRatingDiff", "?"),
+                "BlackRatingDiff": game.headers.get("BlackRatingDiff", "?"),
+                "ECO": game.headers.get("ECO", "?"),
+                "Opening": game.headers.get("Opening", "?"),
+                "Termination": game.headers.get("Termination", "?"),
+                "Round": game.headers.get("Round", "?")
             }
+
 
             # Process the moves for analysis
             game_moves_data = process_game_moves_and_analyze(game)
@@ -135,9 +136,9 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
             print(f"Game {i} analyzed and saved to {output_json_path}")
 
             # Add a 1-minute sleep after every 2 games processed to avoid overloading the API
-            # if i % 2 == 0:
-            #     print("Pausing for 60 seconds to avoid overloading the API...")
-            #     time.sleep(60)
+            if i % 2 == 0:
+                print("Pausing for 60 seconds to avoid overloading the API...")
+                time.sleep(60)
 
 # Example Usage
 if __name__ == "__main__":

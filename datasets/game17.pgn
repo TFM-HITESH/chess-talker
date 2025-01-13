@@ -1,24 +1,24 @@
-[Event "FIDE Grand Swiss"]
-[Site "Isle of Man"]
-[Date "2019.10.18"]
-[Round "8"]
+[Event "World Blitz Championship"]
+[Site "Moscow RUS"]
+[Date "2019.12.30"]
+[EventDate "2019.12.29"]
+[Round "19.1"]
+[Result "0-1"]
 [White "Alireza Firouzja"]
 [Black "Magnus Carlsen"]
-[Result "1-0"]
-[WhiteElo "2702"]
-[BlackElo "2876"]
-[WhiteRatingDiff "+6"]
-[BlackRatingDiff "-6"]
-[ECO "C11"]
-[Opening "French Defense: Steinitz Variation"]
-[TimeControl "40/7200:20/3600"]
-[Termination "Normal"]
+[ECO "C76"]
+[WhiteElo "2723"]
+[BlackElo "2872"]
+[PlyCount "132"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5 
-9. a3 c4 10. g4 Be7 11. f5 Nb6 12. Qg2 h5 13. gxh5 Rxh5 14. f6 gxf6 15. Qg8+ Kd7 
-16. Qxf7 Rh8 17. exf6 Rf8 18. fxe7 Qxe7 19. Qxe7+ Kxe7 20. Ng5 Kf6 21. O-O-O Rg8 
-22. h4 Bd7 23. Bh3 Rae8 24. Rdf1+ Ke7 25. Rf7+ Kd8 26. Nxd5 Nxd5 27. Rhf1 Nxe3 
-28. Rxd7+ Kc8 29. Rff7 Nd5 30. Rxd5 Kb8 31. Rdd7 Nd8 32. Rf6 Ref8 33. Rxd8+ Rxd8 
-34. Rxa6 Rxd4 35. Bg2 Rxh4 36. Ra8+ Kc7 37. Ne6+ Kd6 38. Rxg8 Kxe6 39. Rg5 Kf6 
-40. Rxb5 Ke6 41. a4 Kf6 42. b4 Ke6 43. Rc5 Kd6 44. Rc6+ Kd7 45. Kb2 Rh2 46. a5 
-Rh8 47. Rxc4 Rh4 48. Bc6+ Kd6 49. Rxh4 Kxc6 50. Kc3 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. h3 Nf6
+9. Bc2 O-O 10. Re1 Re8 11. Nbd2 Qe7 12. Nf1 Qf8 13. Ng3 Bh6 14. Ng5 Nd8 15. Bb3
+Ne6 16. h4 Rad8 17. Be3 Bg7 18. h5 Bh6 19. Qc1 Ng4 20. Nxe6 fxe6 21. Rf1 Nxe3
+22. fxe3 Qe7 23. hxg6 hxg6 24. Qd2 exd4 25. cxd4 Kg7 26. Rf3 Rf8 27. Raf1 Rxf3
+28. Rxf3 Rf8 29. Qc3 c6 30. Nf1 e5 31. Rxf8 Kxf8 32. Qc4 Qf6 33. dxe5 dxe5 34.
+Qb4+ c5 35. Qxb7 Bb5 36. Qc8+ Ke7 37. Qxc5+ Qd6 38. Qxd6+ Kxd6 39. Bf7 Bxf1 40.
+Kxf1 g5 41. Ke2 Bf8 42. Kf3 Ke7 43. Bc4 a5 44. Ke2 Kd6 45. Bd5 Be7 46. Kf3 Bd8
+47. Kg4 Be7 48. Kf5 Bd8 49. g4 Be7 50. a3 Bd8 51. b4 axb4 52. axb4 Be7 53. b5
+Bd8 54. Kg6 Kc5 55. Kf5 Kxb5 56. Kxe5 Kc5 57. Ke6 Ba5 58. e5 Bd2 59. e4 Bc3 60.
+Kf5 Kb6 61. e6 Kc7 62. Kg6 Kd8 63. Kxg5 Ke7 64. Kh5 Bd2 65. g5 Bf4 66. Kg4 Bd2 0-1
+

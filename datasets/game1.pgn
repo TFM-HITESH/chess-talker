@@ -1,22 +1,21 @@
-[Event "World Chess Championship"]
-[Site "Reykjavik, Iceland"]
+[Event "Spassky - Fischer World Championship Match"]
+[Site "Reykjavik ISL"]
 [Date "1972.07.23"]
+[EventDate "?"]
 [Round "6"]
-[White "Bobby Fischer"]
-[Black "Boris Spassky"]
 [Result "1-0"]
-[WhiteElo "2785"]
-[BlackElo "2660"]
-[WhiteRatingDiff "+5"]
-[BlackRatingDiff "-5"]
+[White "Robert James Fischer"]
+[Black "Boris Spassky"]
 [ECO "D59"]
-[Opening "Queen's Gambit Declined: Tartakower (Makagonov-Bondarevsky) System"]
-[TimeControl "40/7200:20/3600"]
-[Termination "Normal"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
 
-1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5 Nxd5 
-9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6 12. Qa4 c5 13. Qa3 Rc8 14. Bb5 a6 15. dxc5 bxc5 
-16. O-O Ra7 17. Be2 a5 18. Rfd1 Nd7 19. Nd4 Nf6 20. Nxe6 fxe6 21. Rc2 c4 22. Qxe7+ Rxe7 
-23. b3 Rec7 24. bxc4 dxc4 25. Rd4 c3 26. f4 Nd5 27. Kf2 Nb4 28. Rc1 Nxa2 29. Rc2 Nb4 
-30. Rc1 c2 31. Ke1 Rc3 32. Kd2 Ra3 33. Rc4 Rd8+ 34. Rd4 Rc8 35. Rc4 Rd8+ 36. Rd4 Rc8 
-37. Rc4 1-0
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6
+7. Bh4 b6 8. cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+12. Qa4 c5 13. Qa3 Rc8 14. Bb5 a6 15. dxc5 bxc5 16. O-O Ra7
+17. Be2 Nd7 18. Nd4 Qf8 19. Nxe6 fxe6 20. e4 d4 21. f4 Qe7
+22. e5 Rb8 23. Bc4 Kh8 24. Qh3 Nf8 25. b3 a5 26. f5 exf5
+27. Rxf5 Nh7 28. Rcf1 Qd8 29. Qg3 Re7 30. h4 Rbb7 31. e6 Rbc7
+32. Qe5 Qe8 33. a4 Qd8 34. R1f2 Qe8 35. R2f3 Qd8 36. Bd3 Qe8
+37. Qe4 Nf6 38. Rxf6 gxf6 39. Rxf6 Kg8 40. Bc4 Kh8 41. Qf4 1-0

@@ -1,25 +1,19 @@
-[Event "World Chess Championship"]
-[Site "Moscow, Russia"]
-[Date "1984.10.05"]
-[Round "13"]
+[Event "Karpov - Kasparov World Championship Match 1984/85"]
+[Site "Moscow URS"]
+[Date "1984.09.17"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
-[Result "1/2-1/2"]
-[WhiteElo "2720"]
-[BlackElo "2710"]
-[WhiteRatingDiff "+1"]
-[BlackRatingDiff "+1"]
-[ECO "E04"]
-[Opening "Catalan Opening"]
-[TimeControl "40/7200:20/3600"]
-[Termination "Draw"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
 
-1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. b3 Nbd7 8. Qc2 b6 
-9. Bb2 Bb7 10. Rd1 Rc8 11. Nc3 c5 12. dxc5 Bxc5 13. Ng5 h6 14. Nge4 Nxe4 15. Nxe4 
-Be7 16. Qc3 Nf6 17. Rac1 Re8 18. Qe5 Bf8 19. Nxf6+ gxf6 20. Qxf6 Qxf6 21. Bxf6 Rc7 
-22. cxd5 Rxc1 23. Rxc1 Bxd5 24. Bxd5 exd5 25. Kf1 Bc5 26. e3 Re6 27. Bc3 Kf8 
-28. Rd1 Rd6 29. Ke2 Ke7 30. f3 Ke6 31. g4 Rc6 32. Rc1 f5 33. Kd3 fxg4 34. fxg4 Kf7 
-35. Rf1+ Kg6 36. Rf5 Re6 37. Rxd5 Rxe3+ 38. Kc4 Rh3 39. b4 Be7 40. Rd7 Bf6 41. Bxf6 
-Kxf6 42. Rxa7 Rxh2 43. Kb5 Rb2 44. Ra6 Kg5 45. Rxb6 Rxa2 46. Kc5 Rc2+ 47. Kd4 Kxg4 
-48. Ke3 h5 49. b5 h4 50. Rh6 h3 51. b6 Rb2 52. Kd4 Kg3 53. Kc5 h2 54. Kc6 Rc2+ 55. 
-Kb7 Rb2 56. Kc7 Rc2+ 57. Kb8 Rb2 58. b7 Rc2 59. Ka7 1/2-1/2
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Qb3 Na5 13.Qxb6
+Nxe4 14.Nxe4 Bxe4 15.Qxd8 Bxd8 16.Rad1 d5 17.f3 Bf5 18.cxd5
+exd5 19.Rxd5 Be6 20.Rd6 Bxa2 21.Rxa6 Rb8 22.Bc5 Re8 23.Bb5 Re6
+24.b4 Nb7 25.Bf2 Be7 26.Nc2 Bd5 27.Rd1 Bb3 28.Rd7 Rd8 29.Rxe6
+Rxd7 30.Re1 Rc7 31.Bb6 1-0
