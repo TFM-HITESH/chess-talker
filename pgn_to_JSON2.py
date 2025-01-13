@@ -93,7 +93,7 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
         os.makedirs(output_folder)
 
     # Loop through all the game files in the datasets folder
-    for i in range(4, 21):
+    for i in range(4, 5):
         pgn_file_path = os.path.join(dataset_folder, f"game{i}.pgn")
         output_json_path = os.path.join(output_folder, f"processed_game{i}.json")
 
@@ -135,9 +135,9 @@ def parse_pgn_and_generate_json(dataset_folder, output_folder):
             print(f"Game {i} analyzed and saved to {output_json_path}")
 
             # Add a 1-minute sleep after every 2 games processed to avoid overloading the API
-            if i % 2 == 0:
-                print("Pausing for 60 seconds to avoid overloading the API...")
-                time.sleep(60)
+            # if i % 2 == 0:
+            #     print("Pausing for 60 seconds to avoid overloading the API...")
+            #     time.sleep(60)
 
 # Example Usage
 if __name__ == "__main__":
